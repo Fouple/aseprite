@@ -64,6 +64,6 @@ jobs:
       with:
         name: aseprite
         path: |
-          C:/Users/(o)/AppData/Local/Aseprite/Aseprite/build/bin/data
-          C:/Users/(o)/AppData/Local/Aseprite/Aseprite/build/bin/aseprite.exe
+          D:/a/aseprite/aseprite/build/bin/data
+          D:/a/aseprite/aseprite/build/bin/aseprite.exe
           
